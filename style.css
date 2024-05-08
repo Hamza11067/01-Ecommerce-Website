@@ -618,6 +618,19 @@ footer .install img {
   color: white;
 }
 
+#pagination{
+  text-align: center;
+}
+
+#pagination a{
+  color: #fff;
+  font-weight: 600;
+  text-decoration: none;
+  background-color: #088178;
+  padding: 10px 15px;
+  border-radius: 4px;
+}
+
 
 
 /* Media Queries */
